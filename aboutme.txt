@@ -1,0 +1,19 @@
+<span id="a">root@sanjay</span>:<span id="b">~</span><span id="c">$</span> whoami
+<p> Sanjay B </p>
+<span id="a">root@sanjay</span>:<span id="b">~</span><span id="c">$</span> cat about.me
+<p> Hey There! I am Sanjay B, from India.
+I am an Aspiring and Passionate Developer.
+I am pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. <br>
+
+My area of interest involves: 
+  ~ Web Development
+  ~ Machine Learning
+  ~ DevOps
+  ~ Open Source
+
+I develop & contribute to Open Source Projects in <a href="https://github.com/sanjaydev02/">GitHub.</a>
+If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1UisIUMwdODPKd3nh_thvGKHzGZvB03CK/view?usp=drivesdk">Resume.</a></p>
+<span id="a">root@sanjay</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
+<p> You can reach me at <a href="mailto: sanjayreachmeout@gmail.com">sanjayreachmeouty@gmail.com</a>
+You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/sanjaydev02/">LinkedIn</a> <br> ~ <a href="https://twitter.com/Sanjaytwts">Twitter</a>.</p>
+<span id="a">root@sanjay</span>:<span id="b">~</span><span id="c">$</span> exit
