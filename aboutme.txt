@@ -6,9 +6,8 @@ I am an Aspiring and Passionate Developer.
 I am pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. <br>
 
 My area of interest involves: 
-  ~ Web Development
-  ~ Machine Learning
-  ~ DevOps
+  ~ Backend Development
+  ~ Application Security
   ~ Open Source
 
 I develop & contribute to Open Source Projects in <a href="https://github.com/sanjaydev02/">GitHub.</a>
